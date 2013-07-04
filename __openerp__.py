@@ -34,7 +34,8 @@ Handle Chromlech hr timesheet needs
     "version": "0.1",
     "depends": [
         "base",
-        "hr_timesheet_sheet"
+        "hr_timesheet_sheet",
+        "hr_attendance",
     ],
     "category": "HR",
     "author": "Steeve",
